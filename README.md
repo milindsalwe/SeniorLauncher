@@ -1,3 +1,4 @@
+https://build.appcenter.ms/v0.1/apps/3695d478-1fdf-4678-a07e-454cdc765622/branches/master/badge
 # SeniorLauncher
 A launcher app for Android, intended for oldies
 
